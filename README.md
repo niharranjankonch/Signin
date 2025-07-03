@@ -1,1 +1,1 @@
-this repo contains 2 files html and css file for gdgc recruitment
+this repo contains files for gdgc recruitment
